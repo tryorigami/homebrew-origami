@@ -5,13 +5,13 @@ Homebrew tap for [Origami](https://tryorigami.app/) — a workspace-oriented ter
 ## Install
 
 ```bash
-brew install --cask ricardobucho/origami/origami
+brew install --cask tryorigami/origami/origami
 ```
 
 Or tap first:
 
 ```bash
-brew tap ricardobucho/origami
+brew tap tryorigami/origami
 brew install --cask origami
 ```
 
