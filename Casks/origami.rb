@@ -4,7 +4,7 @@ cask "origami" do
 
   url "https://storage.tryorigami.app/releases/Origami_#{version}_universal.dmg"
   name "Origami"
-  desc "Project-oriented terminal manager"
+  desc "Workspace-oriented terminal manager"
   homepage "https://tryorigami.app/"
 
   livecheck do
