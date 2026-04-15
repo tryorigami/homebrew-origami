@@ -1,10 +1,10 @@
 cask "origami" do
-  version "0.17.0"
-  sha256 "25ac14ab9ad7ee916bc8b44f72c211a295af976e1c7a2f78447a983391d401c1"
+  version "0.17.1"
+  sha256 "bbc2187c5921207f1985cced548a65e46b7287e34c779f5030b21a5d1f72f381"
 
   url "https://storage-worker.ricardo-020.workers.dev/releases/Origami_#{version}_universal.dmg"
   name "Origami"
-  desc "Workspace-oriented terminal manager"
+  desc "Project-oriented terminal manager"
   homepage "https://tryorigami.app/"
 
   livecheck do
