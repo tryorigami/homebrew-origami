@@ -1,6 +1,6 @@
 cask "origami" do
-  version "0.18.0"
-  sha256 "44c0ee687ee938377aa9eedd70fbedff83136673dadb822d97ec035d5bae1c96"
+  version "0.18.1"
+  sha256 "ede24a943f386799bd9cf751bad7923346dbaec38a895e02fdda885c569f88f6"
 
   url "https://storage-worker.ricardo-020.workers.dev/releases/Origami_#{version}_universal.dmg"
   name "Origami"
